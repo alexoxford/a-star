@@ -1,2 +1,2 @@
-# a-star
+# A*
 An A* implementation in Python.
